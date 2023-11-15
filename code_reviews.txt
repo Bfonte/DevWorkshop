@@ -1,18 +1,15 @@
-1. Check out the code reviewer guidelines for software engineers at Yelp and Microsoft (Visual Studio Mobile team). What concepts are similar between the companies (List at least two)? What are some key differences (List at least two)? In general, what items should be present in a code review checklist for a development team?
+1. The similarities between the two companies are:
+    - Cooperation between members is important.
+    - Make sure that everyone has access to changes between changes.
+   And the differences are: 
+    - Yelp focuses on interpersonal cooperation and peer review. VS has an increased focus on change consistency.
+    - VS has automation as a means of peer review instead of real people.
+   The items that should be present in a code review checklist for a development team are:
+    - Follow etiquette, be kind, and give constructive criticism.
+    - Ensure that access to changes is easy so the team can stay updated.
+    - Smaller pull requests are better.
+    - Respond to feedback quickly.
 
-Similarities:
-	Cooperation between members is important.
-	Make sure that everyone has access to changes between changes.
+2. An effective code review can be found on the website: https://codereview.stackexchange.com/questions/287927/rock-paper-scissors-game. The code in question maintains a concise length, adhering to the principle that smaller pull requests are generally more favorable. Moreover, the second response on the website provides pragmatic suggestions, such as leveraging enums and substituting specific functions, which are straightforward to implement. Notably, the review is characterized by its constructive criticism, fostering a positive and collaborative atmosphere.
 
-Differences:
-	Yelp focuses on interpersonal cooperation and peer review. VS has an increased focus on change consistency.
-	VS has automation as a means of peer review instead of real people.
-
-Code review checklist:
-	Follow etiquette, be kind, and give constructive criticism.
-	Ensure that access to changes is easy so the team can stay updated.
-	Smaller pull requests are better.
-	Respond to feedback quickly.
-
-2. Find an example of a "good" code review. Provide a link to the review and explain why you found the review beneficial.
-3. Find an example of a "bad" code review. Provide a link to the review and briefly explain why you found the review not beneficial. In addition, include recommendations for improvement to the review feedback.
+3. ????
