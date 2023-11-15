@@ -12,4 +12,4 @@
 
 2. An effective code review can be found on the website: https://codereview.stackexchange.com/questions/287927/rock-paper-scissors-game. The code in question maintains a concise length, adhering to the principle that smaller pull requests are generally more favorable. Moreover, the second response on the website provides pragmatic suggestions, such as leveraging enums and substituting specific functions, which are straightforward to implement. Notably, the review is characterized by its constructive criticism, fostering a positive and collaborative atmosphere.
 
-3. ????
+3. https://codereview.stackexchange.com/questions/287828/simple-key-value-database-using-c, The last review that was provided was very brief with little information about any issues in the code, only providing a vague suggestion without any other input. To make this better possibly include the code snippet that has the issue and, provide more inforamtion for why the provides issue matter in that situation not just fix that.
