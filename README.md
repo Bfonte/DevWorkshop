@@ -1,1 +1,3 @@
 # DevWorkshop
+
+Implementation and testing workshop activities...
