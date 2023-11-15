@@ -1,3 +1,18 @@
 1. Check out the code reviewer guidelines for software engineers at Yelp and Microsoft (Visual Studio Mobile team). What concepts are similar between the companies (List at least two)? What are some key differences (List at least two)? In general, what items should be present in a code review checklist for a development team?
+
+Similarities:
+	Cooperation between members is important.
+	Make sure that everyone has access to changes between changes.
+
+Differences:
+	Yelp focuses on interpersonal cooperation and peer review. VS has an increased focus on change consistency.
+	VS has automation as a means of peer review instead of real people.
+
+Code review checklist:
+	Follow etiquette, be kind, and give constructive criticism.
+	Ensure that access to changes is easy so the team can stay updated.
+	Smaller pull requests are better.
+	Respond to feedback quickly.
+
 2. Find an example of a "good" code review. Provide a link to the review and explain why you found the review beneficial.
 3. Find an example of a "bad" code review. Provide a link to the review and briefly explain why you found the review not beneficial. In addition, include recommendations for improvement to the review feedback.
